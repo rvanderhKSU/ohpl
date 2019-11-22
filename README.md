@@ -1,6 +1,6 @@
 <b>Introduction</b>
 
-Developed by researchers at Kennesaw State University, OHPL directly addresses the unique requirements of the ordinal classification by using a point specific large margin loss function to group classes, while directly adhering to the ordinal information that are represented in the data. DNN’s built using OHPL perform on par with existing state-of-the-art ordinal classifiers on small datasets, while demonstrating vastly improved results on larger standard benchmark datasets.
+Developed by Dr. Bob Vanderheyden and Dr. Ying Xie of Kennesaw State University, OHPL directly addresses the unique requirements of the ordinal classification by using a point specific large margin loss function to group classes, while directly adhering to the ordinal information that are represented in the data. DNN’s built using OHPL perform on par with existing state-of-the-art ordinal classifiers on small datasets, while demonstrating vastly improved results on larger standard benchmark datasets.
 
 <b>Usage</b>
 
